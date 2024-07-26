@@ -15,7 +15,7 @@ From smart home devices to advanced telemetry systems, my projects with Arduino 
 I have extensive experience in building user-friendly and visually appealing applications using Qt. My projects range from simple utilities to complex applications, all designed with the end-user in mind.
 
 ### 🎮 SuperGameDuino
-![SuperGameDuino](https://github.com/mazenelnahla/SuperGameduino)
+[SuperGameDuino](https://github.com/mazenelnahla/SuperGameduino)
 Introducing SuperGameDuino, a game console built with the powerful ESP32. This project combines my love for gaming and hardware development, resulting in a unique and fun gaming experience.
 
 Feel free to explore my repositories and see what I'm working on. I'm always open to collaboration and new ideas, so don't hesitate to reach out!
