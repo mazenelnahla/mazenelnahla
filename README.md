@@ -1,6 +1,6 @@
 ## Hi there, I'm Mazen Elnahla! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong focus on embedded systems, IoT, and user interface design. My expertise spans across various technologies, including Qt, Arduino, and ESP32. Here are a few highlights of my work:
+Welcome to my GitHub profile! I'm a passionate developer with a strong focus on embedded systems, IoT, and user interface design. My expertise spans across various technologies, including Qt, STM32, Arduino, and ESP32. Here are a few highlights of my work:
 
 ### 🚗 Instrument Cluster Auto Spectra
 [Instrument Cluster Animation](https://raw.githubusercontent.com/yourusername/yourrepository/main/instrument_cluster_animation.svg)
