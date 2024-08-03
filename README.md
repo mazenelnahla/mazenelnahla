@@ -11,10 +11,10 @@ This project showcases my skills in developing sophisticated automotive instrume
 From smart home devices to advanced telemetry systems, my projects with Arduino and ESP32 demonstrate my ability to create connected solutions that solve real-world problems.
 
 ### 🎨 Qt Applications
-[Auto Spectra](https://raw.githubusercontent.com/yourusername/yourrepository/main/qt_applications_animation.svg)
+[Auto Spectra](https://github.com/mazenelnahla/AutoSpectra)
 I have extensive experience in building user-friendly and visually appealing applications using Qt. My projects range from simple utilities to complex applications, all designed with the end-user in mind.
 
-[Qt Spotify Mini Carthing](https://raw.githubusercontent.com/yourusername/yourrepository/main/qt_applications_animation.svg)
+[Qt Spotify Mini Carthing](https://github.com/mazenelnahla/Spotify_Mini_Carthing)
 Qt Spotify Mini Carthing is a mini replacement to Spotify carthing, the appilcation is made using qt5.15 which displays the currently playing song with standard playback controls. It provides an intuitive and user-friendly interface, making it easy to enjoy your music on the go.
 
 ### 🎮 SuperGameDuino
